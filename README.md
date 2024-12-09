@@ -2,7 +2,7 @@
 
 ---
 
-This README guide provides an overview of the color palette used in the project, along with their respective purposes and usage.
+This README guide provides an overview of the color palette used in the project, along with their respective purposes and usage. 
 
 | Color Name   | Purpose                                   | Color Patch                                                 | Hash Value |
 |--------------|-------------------------------------------|------------------------------------------------------------|------------|
